@@ -1,0 +1,33 @@
+.bienVenue{
+    background-color: rgba(0, 0, 0, 0.548);
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.box{
+    
+    
+    position: absolute;
+    align-self: center;
+    width: 600px;
+    min-height: 400px;
+    background-color:rgba(128, 0, 128, 0.493);
+    border-radius: 15px;
+    
+}
+.box h2{
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: rgba(0, 0, 0, 0.685);
+}
+.box p{
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: rgba(0, 0, 0, 0.685);
+    font-size: 17px;
+}
+.box span{
+    color: aqua;
+}
